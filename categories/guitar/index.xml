@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guitar on Kate&#39;s Blog</title>
+    <link>https://hsinju0326.github.io/categories/guitar/</link>
+    <description>Recent content in Guitar on Kate&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://hsinju0326.github.io/categories/guitar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IU-eight (Acoustic Ver.)</title>
+      <link>https://hsinju0326.github.io/blog/eight-guitar/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://hsinju0326.github.io/blog/eight-guitar/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

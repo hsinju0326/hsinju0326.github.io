@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kate&#39;s Blog</title>
+    <link>https://hsinju0326.github.io/</link>
+    <description>Recent content on Kate&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://hsinju0326.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IU-eight (Acoustic Ver.)</title>
+      <link>https://hsinju0326.github.io/blog/eight-guitar/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://hsinju0326.github.io/blog/eight-guitar/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Lemon tart</title>
+      <link>https://hsinju0326.github.io/blog/lemon-tart/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://hsinju0326.github.io/blog/lemon-tart/</guid>
+      <description>檸檬塔 Lemon tart .
+  食材      塔皮 Crust      (冰)中筋麵粉 150克   (冰)低筋麵粉 150克   (冰)糖粉 80克   (冰)奶油 120克   (冰)全蛋 一顆       檸檬內餡 Lemon Curd      全蛋 4顆   檸檬汁 4顆   香草精 適量   煉乳 20g   (室溫)奶油 80g   砂糖 80g   檸檬皮 3顆的量    .</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://hsinju0326.github.io/blog/test/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://hsinju0326.github.io/blog/test/</guid>
+      <description>taxonomies categories:
+ &amp;ldquo;Go Language&amp;rdquo; tags: &amp;ldquo;Photos&amp;rdquo;  Hello world</description>
+    </item>
+    
+  </channel>
+</rss>
