@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Earl Grey on Kate&#39;s Blog</title>
+    <link>https://hsinju0326.github.io/tags/earl-grey/</link>
+    <description>Recent content in Earl Grey on Kate&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://hsinju0326.github.io/tags/earl-grey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Madeleine</title>
+      <link>https://hsinju0326.github.io/blog/madeleine/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://hsinju0326.github.io/blog/madeleine/</guid>
+      <description>瑪德蓮(伯爵) Madeleine(Earl Grey) .
+  材料 Ingredients      瑪德蓮 Madeleine      (室溫)蛋 1顆   泡打粉 2.</description>
+    </item>
+    
+  </channel>
+</rss>
